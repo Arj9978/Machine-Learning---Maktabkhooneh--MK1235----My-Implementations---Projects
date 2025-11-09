@@ -13,7 +13,3 @@ This repository contains **my original implementations, assignments, and project
 - **Tests** to keep notebooks/code stable.
 - **Deployment examples** (Streamlit/FastAPI/Flask) for turning models into simple web apps.
 - Optional **PyCaret** workflows for AutoML-style baselines and comparisons.
-
----
-
-## Repository structure
